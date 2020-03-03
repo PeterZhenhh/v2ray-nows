@@ -15,7 +15,8 @@
       ]
     },
     "streamSettings": {
-      "network": "tcp"
+      "network": "tcp",
+      "security": "tls"
     }
   },
   "inboundDetour": [],
