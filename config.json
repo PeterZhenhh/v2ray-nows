@@ -15,7 +15,7 @@
       ]
     },
     "streamSettings": {
-      "network": "quic"
+      "network": "tcp"
     }
   },
   "inboundDetour": [],
