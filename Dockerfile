@@ -29,4 +29,4 @@ ENV PATH /usr/bin/v2ray:$PATH
 CMD v2ray -config=/etc/v2ray/config.json
     
 
-EXPOSE 8080
+EXPOSE 80
